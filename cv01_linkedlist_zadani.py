@@ -2,8 +2,8 @@
 
 
 ###########################
-# Dotaz studenta:
-#
+# Dotaz studeta:
+#	tady si vyzkousim github
 #
 ###########################
 
